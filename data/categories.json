@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "2",
+        "name": "Data Science"
+    },
+    {
+        "id": "3",
+        "name": "Deep Learning"
+    },
+    {
+        "id": "4",
+        "name": "Artificial Inteligence"
+    },
+    {
+        "id": "5",
+        "name": "Mobile Application"
+    },
+    {
+        "id": "6",
+        "name": "Ethical Hacking"
+    }
+]
