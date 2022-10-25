@@ -4,7 +4,7 @@
         "id": "635784947e9b1957c9e37ffb",
         "price": 285,
         "duration": 6,
-        "categories_id": 1,
+        "category_id": "1",
         "time": 30,
         "title": "Machine learning is a field of computer science and artificial intelligence that deals with the task of teaching computers to learn from data without being explicitly programmed. It is a type of data mining that allows computers to “learn” on their own by analyzing data sets and using pattern recognition. Machine learning has many benefits, including improved accuracy, efficiency, and decision-making.",
         "name": "Machine Learning"
@@ -14,7 +14,7 @@
         "id": "6357849488d3baec3007c708",
         "price": 399,
         "duration": 6,
-        "categories_id": 2,
+        "category_id": "2",
         "time": 30,
         "title": "If used effectively, keeping in mind the increasing demand and requirement, companies can use data to make massive operational efficiencies in their business. However, despite these potentials, data science implementation and use are considered less across various industries. It is mainly due to the lack of skilled and talented data scientists and the persistent skill gap in the industry.",
         "name": "Data Science"
@@ -24,7 +24,7 @@
         "id": "635784942a6655d4b86816cc",
         "price": 377,
         "duration": 6,
-        "categories_id": 3,
+        "category_id": "3",
         "time": 30,
         "title": "Deep learning is a branch of machine learning (ML) that mimics the functioning of the human brain to find correlations and patterns by processing data with a specified logical structure. Also referred to as deep neural networks, deep learning uses multiple hidden layers in the neural network as opposed to traditional neural networks that only contain a handful of hidden layers.",
         "name": "Deep Learning"
@@ -34,7 +34,7 @@
         "id": "63578494524bc479a7897973",
         "price": 259,
         "duration": 6,
-        "categories_id": 4,
+        "category_id": "4",
         "time": 30,
         "title": "The digital revolution has already changed how people live, work, and communicate. And it’s only just getting started. But the same technologies that have the potential to help billions of people live happier, healthier, and more productive lives are also creating new challenges for citizens and governments around the world.",
         "name": "Artificial Inteligence"
@@ -44,7 +44,7 @@
         "id": "63578494d157afe59dd5d24b",
         "price": 179,
         "duration": 6,
-        "categories_id": 5,
+        "category_id": "5",
         "time": 30,
         "title": "In the past decade, mobile app usage has exploded all around the world. By the end of 2020, there were about 3.5 billion smartphone users worldwide, and an estimated 1.4 billion smartphones were sold in that year alone.",
         "name": "Mobile Application"
@@ -54,7 +54,7 @@
         "id": "635784946f287069cb2d7909",
         "price": 309,
         "duration": 6,
-        "categories_id": 6,
+        "category_id": "6",
         "time": 30,
         "title": "The primary benefit of ethical hacking is to prevent data from being stolen and misused by malicious attackers, as well as: Discovering vulnerabilities from an attacker's POV so that weak points can be fixed. Implementing a secure network that prevents security breaches.",
         "name": "Ethical Hacking"
