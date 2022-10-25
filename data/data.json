@@ -1,0 +1,58 @@
+[
+    {
+        "img": "https://cdni.iconscout.com/illustration/premium/thumb/machine-learning-1439658-1213897.png",
+        "id": "635784947e9b1957c9e37ffb",
+        "price": 85,
+        "duration": 6,
+        "time": 30,
+        "name": "Machine Learning"
+    },
+    {
+        "img": "https://cdni.iconscout.com/illustration/premium/thumb/data-science-illustration-concept-1533027-1304574.png",
+        "id": "6357849488d3baec3007c708",
+        "price": 401,
+        "duration": 6,
+        "time": 30,
+        "name": "Data Science"
+    },
+    {
+        "img": "https://cdni.iconscout.com/illustration/premium/preview/deep-learning-illustration-concept-1533030-1304577.png?w=0&h=700",
+        "id": "635784942a6655d4b86816cc",
+        "price": 377,
+        "duration": 6,
+        "time": 30,
+        "name": "Deep Learning"
+    },
+    {
+        "img": "https://thestempedia.com/wp-content/uploads/2020/07/Best-AI-learning-resources-for-kids-1000x667.png",
+        "id": "63578494524bc479a7897973",
+        "price": 291,
+        "duration": 6,
+        "time": 30,
+        "name": "Artificial Inteligence"
+    },
+    {
+        "img": "https://www.bluecompass.com/filesimages/News%20and%20Blog/2020/web-animation.gif",
+        "id": "635784940b23e3c3883bd946",
+        "price": 204,
+        "duration": 6,
+        "time": 30,
+        "name": "Web Animation"
+    },
+    {
+        "img": "https://blog.sagipl.com/wp-content/uploads/2017/04/Mobile-Application-Development-Trends.jpg",
+        "id": "63578494d157afe59dd5d24b",
+        "price": 179,
+        "duration": 6,
+        "time": 30,
+        "name": "Mobile Application"
+    },
+    {
+        "img": "https://t4.ftcdn.net/jpg/05/05/39/59/360_F_505395943_l1jwu722NBoI73CfNJDb1C0Hw4lqGsfP.jpg",
+        "id": "635784946f287069cb2d7909",
+        "price": 309,
+        "duration": 6,
+        "time": 30,
+        "name": "Ethical Hacking"
+    }
+]
