@@ -5,7 +5,9 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.use(cors());
+
 const categories = require("./data/categories.json")
+const data = require('./data/data.json')
 
 app.get('/', (req, res) => {
     res.send('learning website is runing')
