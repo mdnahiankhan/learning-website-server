@@ -7,6 +7,7 @@
         "category_id": "1",
         "time": 30,
         "title": "Machine learning is a field of computer science and artificial intelligence that deals with the task of teaching computers to learn from data without being explicitly programmed. It is a type of data mining that allows computers to “learn” on their own by analyzing data sets and using pattern recognition. Machine learning has many benefits, including improved accuracy, efficiency, and decision-making.",
+        "points": "Easily identifies trends and patternsNo human intervention needed (automation).Continueas Upgradeale technology",
         "name": "Machine Learning"
     },
     {
@@ -17,6 +18,7 @@
         "category_id": "2",
         "time": 30,
         "title": "If used effectively, keeping in mind the increasing demand and requirement, companies can use data to make massive operational efficiencies in their business. However, despite these potentials, data science implementation and use are considered less across various industries. It is mainly due to the lack of skilled and talented data scientists and the persistent skill gap in the industry.",
+        "points": "Advance of Data Science : Decision making: Data science is a scientific process that relies on mathematical and statistical formulas to extract data and make sense of it.",
         "name": "Data Science"
     },
     {
@@ -26,7 +28,8 @@
         "duration": 6,
         "category_id": "3",
         "time": 30,
-        "title": "Deep learning is a branch of machine learning (ML) that mimics the functioning of the human brain to find correlations and patterns by processing data with a specified logical structure. Also referred to as deep neural networks, deep learning uses multiple hidden layers in the neural network as opposed to traditional neural networks that only contain a handful of hidden layers.",
+        "title": "Deep learning is a branch of machine learning (ML) that mimics the functioning of the human brain to find correlations and patterns by processing data with a specified logical structure. Also referred to as deep neural networks, deep learning uses multiple hidden layers in the neural network as opposed to traditional neural networks that only contain a handful of hidden layers.The advantage of deep learning some points are Given below",
+        "points": "Advantage of Deep Learning: Deep learning is a subset of machine learning which teaches machines to do what humans are naturally born with: learn by example.",
         "name": "Deep Learning"
     },
     {
@@ -37,6 +40,7 @@
         "category_id": "4",
         "time": 30,
         "title": "The digital revolution has already changed how people live, work, and communicate. And it’s only just getting started. But the same technologies that have the potential to help billions of people live happier, healthier, and more productive lives are also creating new challenges for citizens and governments around the world.",
+        "points": "Advantage of AI : AI drives down the time taken to perform a task. It enables multi-tasking and eases the workload for existing resources.",
         "name": "Artificial Inteligence"
     },
     {
@@ -47,6 +51,7 @@
         "category_id": "5",
         "time": 30,
         "title": "In the past decade, mobile app usage has exploded all around the world. By the end of 2020, there were about 3.5 billion smartphone users worldwide, and an estimated 1.4 billion smartphones were sold in that year alone.",
+        "points": "Advantege of Learning Mobile Application:Most people are experienced at using apps on personal smartphones. Using similar functionality for mobile learning apps has many advantages such as allowing learners to access content in familiar ways on demand, making them more open to in-the-moment learning opportunities. When the user experience (UX) is easily recognized and is intuitive, naturally more focus can be directed toward learning content.",
         "name": "Mobile Application"
     },
     {
@@ -57,6 +62,7 @@
         "category_id": "6",
         "time": 30,
         "title": "The primary benefit of ethical hacking is to prevent data from being stolen and misused by malicious attackers, as well as: Discovering vulnerabilities from an attacker's POV so that weak points can be fixed. Implementing a secure network that prevents security breaches.",
+        "points": "Advance of Ethical Hacking:The most obvious benefit of learning ethical hacking is its potential to improve and inform on how a corporate network is defended.",
         "name": "Ethical Hacking"
     }
 ]
